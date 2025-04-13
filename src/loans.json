@@ -1,0 +1,10 @@
+[
+    {
+        "borrower": "John Doe",
+        "book": "1984"
+    },
+    {
+        "borrower": "Jane Smith",
+        "book": "To Kill a Mockingbird"
+    }
+]
